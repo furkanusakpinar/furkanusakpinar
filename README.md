@@ -1,6 +1,6 @@
 ```python
 ┌──(obayana@root)-[~/]
-└─# cat las.py
+└─# 
 
 class obayana:
 
