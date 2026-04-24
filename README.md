@@ -1,5 +1,5 @@
 ```python
-┌──(obayana@root)-[~/]
+┌──(Leapiet@root)-[~/]
 └─# 
 
 class obayana:
