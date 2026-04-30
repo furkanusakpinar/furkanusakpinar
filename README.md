@@ -1,5 +1,4 @@
 <h1 align="center">Leapiet</h1>
-<h2 align="center">"DD"</h2>
 
 <p align="center">
   <a href="https://github.com/USERNAME">
