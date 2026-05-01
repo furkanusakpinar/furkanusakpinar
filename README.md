@@ -1,5 +1,5 @@
 <h1 align="center">Leapiet</h1>
-<h2 align="center">Leapiet</h2>
+<h2 align="center">Hope</h2>
 
 <p align="center">
   <a href="https://github.com/furkanusakpinar">
