@@ -1,6 +1,6 @@
 <h1 align="center">Leapiet</h1>
 <p align="center" style="margin-top: -10px; font-size: 22px;">
-  𝓗𝓸𝓹𝓮
+  "𝓗𝓸𝓹𝓮"
 </p>
 
 <p align="center">
