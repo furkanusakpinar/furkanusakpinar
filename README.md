@@ -1,5 +1,7 @@
 <h1 align="center">Leapiet</h1>
-<h2 align="center">𝓗𝓸𝓹𝓮</h2>
+<p align="center" style="margin-top: -10px; font-size: 22px;">
+  𝓗𝓸𝓹𝓮
+</p>
 
 <p align="center">
   <a href="https://github.com/furkanusakpinar">
