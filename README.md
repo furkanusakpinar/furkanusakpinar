@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Leapiet;%22Hope%22" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Leapiet" alt="Header" />
 </h1>
 
 <p align="center">
@@ -31,36 +31,36 @@
 
 <br />
 
-<!-- Modernized Focus Areas -->
+<!-- Focus Areas -->
 <h3 align="center">🛠️ Focus Areas</h3>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="50%" align="left">
-        <h4>🌐 Web Development</h4>
+      <td width="50%" align="left" style="padding: 12px;">
+        <p><b>🌐 Web Development</b></p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </td>
-      <td width="50%" align="left">
-        <h4>📱 Mobile App Development</h4>
+      <td width="50%" align="left" style="padding: 12px;">
+        <p><b>📱 Mobile App Development</b></p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
         <img src="https://img.shields.io/badge/Cross_Platform-FF69B4?style=flat-square" />
       </td>
     </tr>
     <tr>
-      <td width="50%" align="left">
-        <h4>⚙️ Backend Systems</h4>
+      <td width="50%" align="left" style="padding: 12px;">
+        <p><b>⚙️ Backend Systems</b></p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </td>
-      <td width="50%" align="left">
-        <h4>🔌 API & Automation</h4>
+      <td width="50%" align="left" style="padding: 12px;">
+        <p><b>🔌 API & Automation</b></p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_API-FF69B4?style=flat-square" />
         <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
