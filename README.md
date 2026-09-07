@@ -15,24 +15,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=header"/>
 </p>
 
-<!-- Yetenekler / Skill Stack (Özel İkonlu Kart Görünümü) -->
+<!-- Skill Stack (Her ikon benzersiz) -->
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,react,ts,js,python,nodejs,express,mongodb,vite,html,css,git&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,express,mongodb,firebase,nextjs,vite,html,css,git&theme=dark&perline=7" />
   </a>
 </p>
 
 <br />
 
-<!-- Çalışma Alanları (Neon Minimal Kod Blokları) -->
+<!-- Çalışma Alanları -->
 <h3 align="center">🛠️ Focus Areas</h3>
 
 <div align="center">
 
 ```query
-> Web Development       [ React / Vite / TypeScript ]
+> Web Development       [ React / Next.js / TypeScript ]
 > Mobile App Dev       [ React Native / Expo ]
-> Backend Systems      [ Node.js / Express / MongoDB ]
+> Backend Systems      [ Node.js / Express / MongoDB / Firebase ]
 > API & Automation     [ Python / REST APIs ]
