@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=Leapiet&height=100&fontSize=60&fontAlignY=50&fontAlign=50&desc=&fontFamily=Syne" alt="Leapiet Header" />
-</h1>
-
 <p align="center">
   <a href="https://github.com/furkanusakpinar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff69b4" />
@@ -18,18 +14,15 @@
 <!-- Tech Stack -->
 <h3 align="center">⚡ Tech Stack</h3>
 
-<!-- Frameworks & Core Tech -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-<!-- Other Tech Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,mongodb,firebase,nextjs,vite,html,css,git&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,express,mongodb,firebase,nextjs,vite,html,css,git,react&theme=dark&perline=7" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 <br />
