@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Leapiet" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&duration=1&pause=1&color=FF69B4&center=true&vCenter=true&width=435&lines=Leapiet" alt="Header" />
 </h1>
 
 <p align="center">
