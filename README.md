@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/furkanusakpinar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff69b4" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ff69b4&border=ff69b4" />
   </a>
   <a href="https://instagram.com/Leapiet0000">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -15,31 +15,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=header"/>
 </p>
 
-<!-- Tech Stack -->
+<!-- Yetenekler / Skill Stack (Özel İkonlu Kart Görünümü) -->
 <h3 align="center">⚡ Tech Stack</h3>
 
-<!-- Web & General Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,express,mongodb,firebase,nextjs,vite,html,css,git&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,react,ts,js,python,nodejs,express,mongodb,vite,html,css,git&theme=dark&perline=6" />
   </a>
-</p>
-
-<!-- Mobile Specifc Badge (React Native) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 <br />
 
-<!-- Focus Areas -->
+<!-- Çalışma Alanları (Neon Minimal Kod Blokları) -->
 <h3 align="center">🛠️ Focus Areas</h3>
 
 <div align="center">
 
 ```query
-> Web Development       [ React / Next.js / TypeScript ]
+> Web Development       [ React / Vite / TypeScript ]
 > Mobile App Dev       [ React Native / Expo ]
-> Backend Systems      [ Node.js / Express / MongoDB / Firebase ]
+> Backend Systems      [ Node.js / Express / MongoDB ]
 > API & Automation     [ Python / REST APIs ]
