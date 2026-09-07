@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&duration=1&pause=1&color=FF69B4&center=true&vCenter=true&width=435&lines=Leapiet" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF69B4&text=Leapiet&height=100&fontSize=60&fontAlignY=50&fontAlign=50&desc=&fontFamily=Syne" alt="Leapiet Header" />
 </h1>
 
 <p align="center">
